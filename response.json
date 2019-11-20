@@ -1,0 +1,900 @@
+{
+    "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia/playlists?offset=0&limit=20",
+    "items": [
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5MBjPvDr6pmC4oOa3YUROP"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5MBjPvDr6pmC4oOa3YUROP",
+            "id": "5MBjPvDr6pmC4oOa3YUROP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2733923ccccbbc771a9982f70ffab67616d0000b27374d9a833744be96426ee833cab67616d0000b27391eca63cca2e2a766e78f705ab67616d0000b273ecba48295193b82f13cd560f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2733923ccccbbc771a9982f70ffab67616d0000b27374d9a833744be96426ee833cab67616d0000b27391eca63cca2e2a766e78f705ab67616d0000b273ecba48295193b82f13cd560f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2733923ccccbbc771a9982f70ffab67616d0000b27374d9a833744be96426ee833cab67616d0000b27391eca63cca2e2a766e78f705ab67616d0000b273ecba48295193b82f13cd560f",
+                    "width": 60
+                }
+            ],
+            "name": "Rock Revolving Around 2000",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjYsYjljN2EyOTU5ODBhNTAzZjdkZjdjMWJkNWFmNWY0YTc2MzhiZmMyYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5MBjPvDr6pmC4oOa3YUROP/tracks",
+                "total": 58
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5MBjPvDr6pmC4oOa3YUROP"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7mCjjqKXAeHQwjAVOQ4uQK"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7mCjjqKXAeHQwjAVOQ4uQK",
+            "id": "7mCjjqKXAeHQwjAVOQ4uQK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2734eeb8020977bb9b89034e032ab67616d0000b2735a2d075d99f9e10f0b41bc2dab67616d0000b2735ac735381b38e14548ec3f52ab67616d0000b273b6470af08b94a10a112b7f6d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2734eeb8020977bb9b89034e032ab67616d0000b2735a2d075d99f9e10f0b41bc2dab67616d0000b2735ac735381b38e14548ec3f52ab67616d0000b273b6470af08b94a10a112b7f6d",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2734eeb8020977bb9b89034e032ab67616d0000b2735a2d075d99f9e10f0b41bc2dab67616d0000b2735ac735381b38e14548ec3f52ab67616d0000b273b6470af08b94a10a112b7f6d",
+                    "width": 60
+                }
+            ],
+            "name": "Materia Top Tracks",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAsZjk4NTU1MjhlZjNiYzIwYzhjMGU4YWYwNDk3NTMxNmU2YjRlOWM4Zg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7mCjjqKXAeHQwjAVOQ4uQK/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7mCjjqKXAeHQwjAVOQ4uQK"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3NKdDw2TrgfFYKJVVpoD2F"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3NKdDw2TrgfFYKJVVpoD2F",
+            "id": "3NKdDw2TrgfFYKJVVpoD2F",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27370b548addfbcf3e9be1855c1",
+                    "width": 640
+                }
+            ],
+            "name": "spotify-artists-Psytrance",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw4Yjk2ODExNWYzMDA0MjEzYjllMmMwYmM5ZWI0NTlmOTc0OWY2ZDIz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3NKdDw2TrgfFYKJVVpoD2F/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3NKdDw2TrgfFYKJVVpoD2F"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6ZeZ5cZg1dFGnrijuU4rOl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6ZeZ5cZg1dFGnrijuU4rOl",
+            "id": "6ZeZ5cZg1dFGnrijuU4rOl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/2cdfba8d4c2b86c15a8e4805f083df00925a909ab55d0c7c4b46ec04c9dd46c848c59d2a736be49bdd7441bb97b11188f1f6ce8adf26fce3b261231cee6eb11d3c8fee03a811ee3d2cbf2e5ef1b2c7bd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/2cdfba8d4c2b86c15a8e4805f083df00925a909ab55d0c7c4b46ec04c9dd46c848c59d2a736be49bdd7441bb97b11188f1f6ce8adf26fce3b261231cee6eb11d3c8fee03a811ee3d2cbf2e5ef1b2c7bd",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/2cdfba8d4c2b86c15a8e4805f083df00925a909ab55d0c7c4b46ec04c9dd46c848c59d2a736be49bdd7441bb97b11188f1f6ce8adf26fce3b261231cee6eb11d3c8fee03a811ee3d2cbf2e5ef1b2c7bd",
+                    "width": 60
+                }
+            ],
+            "name": "Unnamed Playlist 2",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw1MGIzMzJkNzY0ZTJlN2E1OTRhNjA0NGZhYjkyZDE2MDU2ZmY0Mjhh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6ZeZ5cZg1dFGnrijuU4rOl/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6ZeZ5cZg1dFGnrijuU4rOl"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2ER9O5EuDC6NYc1DKBgt7q"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2ER9O5EuDC6NYc1DKBgt7q",
+            "id": "2ER9O5EuDC6NYc1DKBgt7q",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273043042a7c90d3b889df3f1ccab67616d0000b27305d383c014b4ba8c9b4222d4ab67616d0000b27353429e46cc1965ed3e370166ab67616d0000b273a4c2c1aa9cfe8fb5bc75edf9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273043042a7c90d3b889df3f1ccab67616d0000b27305d383c014b4ba8c9b4222d4ab67616d0000b27353429e46cc1965ed3e370166ab67616d0000b273a4c2c1aa9cfe8fb5bc75edf9",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273043042a7c90d3b889df3f1ccab67616d0000b27305d383c014b4ba8c9b4222d4ab67616d0000b27353429e46cc1965ed3e370166ab67616d0000b273a4c2c1aa9cfe8fb5bc75edf9",
+                    "width": 60
+                }
+            ],
+            "name": "Audio-Unit Top Tracks",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzksNGNjNjAxODU4MDQ2M2FhZDE5ZmYyMzBmZGZjNTExMzg5YzQ2NzRkMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2ER9O5EuDC6NYc1DKBgt7q/tracks",
+                "total": 38
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2ER9O5EuDC6NYc1DKBgt7q"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2KTBMiiEtGDxQ3Yle6Hgwc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2KTBMiiEtGDxQ3Yle6Hgwc",
+            "id": "2KTBMiiEtGDxQ3Yle6Hgwc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732ae64354bac26846727f946bab67616d0000b27340637396fb2bd26af88c1471ab67616d0000b273c945780509f93299850991e8ab67616d0000b273cbfc317d941a196287098987",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732ae64354bac26846727f946bab67616d0000b27340637396fb2bd26af88c1471ab67616d0000b273c945780509f93299850991e8ab67616d0000b273cbfc317d941a196287098987",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732ae64354bac26846727f946bab67616d0000b27340637396fb2bd26af88c1471ab67616d0000b273c945780509f93299850991e8ab67616d0000b273cbfc317d941a196287098987",
+                    "width": 60
+                }
+            ],
+            "name": "Unnamed Playlist",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Miw4N2ExYmY1NGM5YWQ3NGI3Y2QzOGI5N2RlNGJiNjE3NzEwZTIyN2Uz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2KTBMiiEtGDxQ3Yle6Hgwc/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2KTBMiiEtGDxQ3Yle6Hgwc"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/08p4TlsNPBxb5jQOObcgsd"
+            },
+            "href": "https://api.spotify.com/v1/playlists/08p4TlsNPBxb5jQOObcgsd",
+            "id": "08p4TlsNPBxb5jQOObcgsd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732ae64354bac26846727f946bab67616d0000b2734e7a341be1b0c180a9c2563bab67616d0000b27381f14ef882db0a1cf2e7414cab67616d0000b27389c87c48682ec7f4edb0c221",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732ae64354bac26846727f946bab67616d0000b2734e7a341be1b0c180a9c2563bab67616d0000b27381f14ef882db0a1cf2e7414cab67616d0000b27389c87c48682ec7f4edb0c221",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732ae64354bac26846727f946bab67616d0000b2734e7a341be1b0c180a9c2563bab67616d0000b27381f14ef882db0a1cf2e7414cab67616d0000b27389c87c48682ec7f4edb0c221",
+                    "width": 60
+                }
+            ],
+            "name": "My Playlist",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTMsNjNkNjg0Mzc5OTRiZGM5ZDNiMjRhMmYwMGFjYjZkM2FkOWJlY2FhMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/08p4TlsNPBxb5jQOObcgsd/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:08p4TlsNPBxb5jQOObcgsd"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/64bKPV4li8Waw4IjVJVrgb"
+            },
+            "href": "https://api.spotify.com/v1/playlists/64bKPV4li8Waw4IjVJVrgb",
+            "id": "64bKPV4li8Waw4IjVJVrgb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27374d0924c4267468e6e6a68e1ab67616d0000b2737737bb291b9af18a0233e6beab67616d0000b273925542cb6a7f3b023dd7222fab67616d0000b273b7bfdc74d5268530b74a5803",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27374d0924c4267468e6e6a68e1ab67616d0000b2737737bb291b9af18a0233e6beab67616d0000b273925542cb6a7f3b023dd7222fab67616d0000b273b7bfdc74d5268530b74a5803",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27374d0924c4267468e6e6a68e1ab67616d0000b2737737bb291b9af18a0233e6beab67616d0000b273925542cb6a7f3b023dd7222fab67616d0000b273b7bfdc74d5268530b74a5803",
+                    "width": 60
+                }
+            ],
+            "name": "DJ Set - Jul 10, 2019 at 1:12 AM",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixhNDAzZTlkMWEzNzU2NWY4OGM3Mzk3ZTUwNTVkNDUyOWU2OTc4NWVj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/64bKPV4li8Waw4IjVJVrgb/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:64bKPV4li8Waw4IjVJVrgb"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/57Qiu3FgkAaz2OPM11VWNm"
+            },
+            "href": "https://api.spotify.com/v1/playlists/57Qiu3FgkAaz2OPM11VWNm",
+            "id": "57Qiu3FgkAaz2OPM11VWNm",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/7545a5e9f9a8b32516a7b54fb9b8f03e3f188aa6ab67616d0000b27351319d3d93359c9c142cebfeab67616d0000b273a15d5b575a8d2744e57cf235ab67616d0000b273c43a2a061d3f550c1cdbfc84",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/7545a5e9f9a8b32516a7b54fb9b8f03e3f188aa6ab67616d0000b27351319d3d93359c9c142cebfeab67616d0000b273a15d5b575a8d2744e57cf235ab67616d0000b273c43a2a061d3f550c1cdbfc84",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/7545a5e9f9a8b32516a7b54fb9b8f03e3f188aa6ab67616d0000b27351319d3d93359c9c142cebfeab67616d0000b273a15d5b575a8d2744e57cf235ab67616d0000b273c43a2a061d3f550c1cdbfc84",
+                    "width": 60
+                }
+            ],
+            "name": "\ud83c\udfa7 \ud835\ude73\ud835\ude98\ud835\ude99\ud835\ude8e \ud835\ude70\ud835\ude9c\ud835\ude9c \ud835\udd3d\ud835\udd66\ud835\udd5d\ud835\udd5d \ud835\udd46\ud835\udd5f \ud835\udd3e\ud835\udd63\ud835\udd60\ud835\udd60\ud835\udd67\ud835\udd56 \u30fe\u2060(*\u2060\u317f\u2060*\u0e51)\uff82",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTksYmNjZjAwMDhmMzc3NDkwYjExYTljZjk3ZmRhZTIwZWJlNjJmY2MzMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/57Qiu3FgkAaz2OPM11VWNm/tracks",
+                "total": 65
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:57Qiu3FgkAaz2OPM11VWNm"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4lOMRZEBKZXqIyLTfaGuOR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4lOMRZEBKZXqIyLTfaGuOR",
+            "id": "4lOMRZEBKZXqIyLTfaGuOR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/11fc1a21a2843424fdc96a4e5f1056294245c8bb3e9bf12d0d8f37a9fc52f54494d910bd7dc10c157dea52a8342f1b2a63c053a689c53915173951e2e5bfc8d24033843764e53a99ba2d58573e294cba",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/11fc1a21a2843424fdc96a4e5f1056294245c8bb3e9bf12d0d8f37a9fc52f54494d910bd7dc10c157dea52a8342f1b2a63c053a689c53915173951e2e5bfc8d24033843764e53a99ba2d58573e294cba",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/11fc1a21a2843424fdc96a4e5f1056294245c8bb3e9bf12d0d8f37a9fc52f54494d910bd7dc10c157dea52a8342f1b2a63c053a689c53915173951e2e5bfc8d24033843764e53a99ba2d58573e294cba",
+                    "width": 60
+                }
+            ],
+            "name": "Real Release Radar",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTEzLGVjODEyZDJlZjBjNjVkMDRmZmFlODEwNzNiZjZiNzA2NjQxYWY0ZTg=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4lOMRZEBKZXqIyLTfaGuOR/tracks",
+                "total": 250
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4lOMRZEBKZXqIyLTfaGuOR"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6Kdc8Hl3rdtd6NExDQPomy"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6Kdc8Hl3rdtd6NExDQPomy",
+            "id": "6Kdc8Hl3rdtd6NExDQPomy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2737f081f3cfe606b0cf2107f0eab67616d0000b273d3bb69ca159d15c6317bf484ab67616d0000b273e58b49f84835206903e5245bab67616d0000b273e5f7941088763ea719f15beb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2737f081f3cfe606b0cf2107f0eab67616d0000b273d3bb69ca159d15c6317bf484ab67616d0000b273e58b49f84835206903e5245bab67616d0000b273e5f7941088763ea719f15beb",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2737f081f3cfe606b0cf2107f0eab67616d0000b273d3bb69ca159d15c6317bf484ab67616d0000b273e58b49f84835206903e5245bab67616d0000b273e5f7941088763ea719f15beb",
+                    "width": 60
+                }
+            ],
+            "name": "\ud835\udd39\ud835\udd56\ud835\udd64\ud835\udd65 \ud835\udd3d\ud835\udd66\ud835\udd54\ud835\udd5c\ud835\udd5a\ud835\udd5f' \ud835\udd3e\ud835\udd46\ud835\udd38",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjgsYjZhNTljMGZjMGI1NGNlNWU3YTE3MjBkZTNmNmJkOTUxNmIyMjk2MA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6Kdc8Hl3rdtd6NExDQPomy/tracks",
+                "total": 26
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6Kdc8Hl3rdtd6NExDQPomy"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0QgDuz0nFXApCHxCqlEXtj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0QgDuz0nFXApCHxCqlEXtj",
+            "id": "0QgDuz0nFXApCHxCqlEXtj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273154ae003767ea664cba24877ab67616d0000b2734a076d8bef331d7a165433b7ab67616d0000b27385fafaccc7fff72e624d3450ab67616d0000b2738fecf4a67d47e7278106e97c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273154ae003767ea664cba24877ab67616d0000b2734a076d8bef331d7a165433b7ab67616d0000b27385fafaccc7fff72e624d3450ab67616d0000b2738fecf4a67d47e7278106e97c",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273154ae003767ea664cba24877ab67616d0000b2734a076d8bef331d7a165433b7ab67616d0000b27385fafaccc7fff72e624d3450ab67616d0000b2738fecf4a67d47e7278106e97c",
+                    "width": 60
+                }
+            ],
+            "name": "DJ Set - May 15, 2019 at 4:47 AM",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MiwxMjY4ZWM3ZDdkMThhMjM3OTU3MjFiMWRlNmIyZTE4MmNiMjZlOGI4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0QgDuz0nFXApCHxCqlEXtj/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0QgDuz0nFXApCHxCqlEXtj"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7ImWj6g87PnokfgHBrj7ix"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7ImWj6g87PnokfgHBrj7ix",
+            "id": "7ImWj6g87PnokfgHBrj7ix",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2733420efe38255a5e488946a28ab67616d0000b273ab9b2c0848e01047fed83d29ab67616d0000b273c4ac792705ce39f6867713a4f939fbbaffaa59544cafbc42f1b4ae102b98b406",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2733420efe38255a5e488946a28ab67616d0000b273ab9b2c0848e01047fed83d29ab67616d0000b273c4ac792705ce39f6867713a4f939fbbaffaa59544cafbc42f1b4ae102b98b406",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2733420efe38255a5e488946a28ab67616d0000b273ab9b2c0848e01047fed83d29ab67616d0000b273c4ac792705ce39f6867713a4f939fbbaffaa59544cafbc42f1b4ae102b98b406",
+                    "width": 60
+                }
+            ],
+            "name": "top100 new",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDYsZDA4NzA5NWUwODQ5YjhhNDliYmYwYTRjMjZkNDVlYmE0N2ZmNDFkMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7ImWj6g87PnokfgHBrj7ix/tracks",
+                "total": 63
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7ImWj6g87PnokfgHBrj7ix"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6bD1fNDRIoUaOXbETAk2Um"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6bD1fNDRIoUaOXbETAk2Um",
+            "id": "6bD1fNDRIoUaOXbETAk2Um",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27334a2ba5f2c143051f79e0faaab67616d0000b273978ddf7045b79bf8f8ce0a4eab67616d0000b273c5f4079cdd4f40d72a339356ab67616d0000b273daf892883c8948567e5a7813",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27334a2ba5f2c143051f79e0faaab67616d0000b273978ddf7045b79bf8f8ce0a4eab67616d0000b273c5f4079cdd4f40d72a339356ab67616d0000b273daf892883c8948567e5a7813",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27334a2ba5f2c143051f79e0faaab67616d0000b273978ddf7045b79bf8f8ce0a4eab67616d0000b273c5f4079cdd4f40d72a339356ab67616d0000b273daf892883c8948567e5a7813",
+                    "width": 60
+                }
+            ],
+            "name": "tb",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OSw4NDIzODkwNGU2ZjM3NGM3NmY4NzA3MTc0NGE1ZWZjNzQ5NDgxYjhk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6bD1fNDRIoUaOXbETAk2Um/tracks",
+                "total": 19
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6bD1fNDRIoUaOXbETAk2Um"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0mkSLrCFvhmrPKTcX7Q7Vw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0mkSLrCFvhmrPKTcX7Q7Vw",
+            "id": "0mkSLrCFvhmrPKTcX7Q7Vw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2730a3178d4019e4e7ca4880a10ab67616d0000b2732c4acb208cdcf266c70a2342ab67616d0000b273a174a9835cc7bfea14f2febbab67616d0000b273fb6b8a84e5aef06209a0f9ea",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2730a3178d4019e4e7ca4880a10ab67616d0000b2732c4acb208cdcf266c70a2342ab67616d0000b273a174a9835cc7bfea14f2febbab67616d0000b273fb6b8a84e5aef06209a0f9ea",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2730a3178d4019e4e7ca4880a10ab67616d0000b2732c4acb208cdcf266c70a2342ab67616d0000b273a174a9835cc7bfea14f2febbab67616d0000b273fb6b8a84e5aef06209a0f9ea",
+                    "width": 60
+                }
+            ],
+            "name": "Nice Full On sorted by increasing BPM",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixmY2IzZWQyYTQzZDc1NmFkZDUzYjc4YzE1NGQ0ZTBiNWI0YjJkMjM2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0mkSLrCFvhmrPKTcX7Q7Vw/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0mkSLrCFvhmrPKTcX7Q7Vw"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3MxqzjWBqTcFIdB9RS4zNt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3MxqzjWBqTcFIdB9RS4zNt",
+            "id": "3MxqzjWBqTcFIdB9RS4zNt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27323df144ff0b076f9ab1d3e7cab67616d0000b2735c0e9efad5d849217568b588ab67616d0000b2738c7b40fc0396bd1f12b4f392ab67616d0000b273a6f2c8cbe186f766ec9803d1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27323df144ff0b076f9ab1d3e7cab67616d0000b2735c0e9efad5d849217568b588ab67616d0000b2738c7b40fc0396bd1f12b4f392ab67616d0000b273a6f2c8cbe186f766ec9803d1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27323df144ff0b076f9ab1d3e7cab67616d0000b2735c0e9efad5d849217568b588ab67616d0000b2738c7b40fc0396bd1f12b4f392ab67616d0000b273a6f2c8cbe186f766ec9803d1",
+                    "width": 60
+                }
+            ],
+            "name": "Songbird Full On",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OCwwZDZiM2JkZDE3YTNiZWQ4OTliNGUzZGIyMDFlODU0NmU5NzgwODU5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3MxqzjWBqTcFIdB9RS4zNt/tracks",
+                "total": 56
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3MxqzjWBqTcFIdB9RS4zNt"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0g4B7ExOpcttOtmkGfe1l4"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0g4B7ExOpcttOtmkGfe1l4",
+            "id": "0g4B7ExOpcttOtmkGfe1l4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2730fe237c4b345c6ce170a9317ab67616d0000b2734bdc9730b40b2ed6cb3525acab67616d0000b2735c0e9efad5d849217568b588ab67616d0000b273a6f2c8cbe186f766ec9803d1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2730fe237c4b345c6ce170a9317ab67616d0000b2734bdc9730b40b2ed6cb3525acab67616d0000b2735c0e9efad5d849217568b588ab67616d0000b273a6f2c8cbe186f766ec9803d1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2730fe237c4b345c6ce170a9317ab67616d0000b2734bdc9730b40b2ed6cb3525acab67616d0000b2735c0e9efad5d849217568b588ab67616d0000b273a6f2c8cbe186f766ec9803d1",
+                    "width": 60
+                }
+            ],
+            "name": "Playlist Name Here",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OSxmZjY2MjhkNWJlODdlNjA0ZTY4ZjA4OWE1OTkyYzk1MDk5ZmViOGJm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0g4B7ExOpcttOtmkGfe1l4/tracks",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0g4B7ExOpcttOtmkGfe1l4"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6OEi2AGY7WNGctc15VxwiR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6OEi2AGY7WNGctc15VxwiR",
+            "id": "6OEi2AGY7WNGctc15VxwiR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2733c306137bb1e7a71a1dbdbaaab67616d0000b2734f81df6e79643b99fc77238aab67616d0000b27368b5d70f5a1246a77deb93f3ab67616d0000b273e183501a075d19c8a509039c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2733c306137bb1e7a71a1dbdbaaab67616d0000b2734f81df6e79643b99fc77238aab67616d0000b27368b5d70f5a1246a77deb93f3ab67616d0000b273e183501a075d19c8a509039c",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2733c306137bb1e7a71a1dbdbaaab67616d0000b2734f81df6e79643b99fc77238aab67616d0000b27368b5d70f5a1246a77deb93f3ab67616d0000b273e183501a075d19c8a509039c",
+                    "width": 60
+                }
+            ],
+            "name": "Try again [MPL]",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Miw2MjVjMzI5OTVhMzY4OThhNjEwOGU4ZWRiZmM5ZTdiYWYxNTcwY2Vi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6OEi2AGY7WNGctc15VxwiR/tracks",
+                "total": 31
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6OEi2AGY7WNGctc15VxwiR"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1Xl5UNz58fBYM3gaLuxqMn"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1Xl5UNz58fBYM3gaLuxqMn",
+            "id": "1Xl5UNz58fBYM3gaLuxqMn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2733c306137bb1e7a71a1dbdbaaab67616d0000b2734f81df6e79643b99fc77238aab67616d0000b27368b5d70f5a1246a77deb93f3ab67616d0000b273e183501a075d19c8a509039c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2733c306137bb1e7a71a1dbdbaaab67616d0000b2734f81df6e79643b99fc77238aab67616d0000b27368b5d70f5a1246a77deb93f3ab67616d0000b273e183501a075d19c8a509039c",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2733c306137bb1e7a71a1dbdbaaab67616d0000b2734f81df6e79643b99fc77238aab67616d0000b27368b5d70f5a1246a77deb93f3ab67616d0000b273e183501a075d19c8a509039c",
+                    "width": 60
+                }
+            ],
+            "name": "Test [MPL]",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Miw1MjVhMzZlNGI0ZGRlYjU2MDI2ZWU1MzMzNGM5OGY4MTgxOTQzYzM1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1Xl5UNz58fBYM3gaLuxqMn/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1Xl5UNz58fBYM3gaLuxqMn"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7GvrQgZd8hTVURU3iNOx3Y"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7GvrQgZd8hTVURU3iNOx3Y",
+            "id": "7GvrQgZd8hTVURU3iNOx3Y",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273861b314d34d05fcde02e62a8ab67616d0000b2739bedbe15b6169241e4d411abab67616d0000b273dcbb8513f87cf0816fdea1e4ab67616d0000b273f264c77ebc7edaea41a60002",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273861b314d34d05fcde02e62a8ab67616d0000b2739bedbe15b6169241e4d411abab67616d0000b273dcbb8513f87cf0816fdea1e4ab67616d0000b273f264c77ebc7edaea41a60002",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273861b314d34d05fcde02e62a8ab67616d0000b2739bedbe15b6169241e4d411abab67616d0000b273dcbb8513f87cf0816fdea1e4ab67616d0000b273f264c77ebc7edaea41a60002",
+                    "width": 60
+                }
+            ],
+            "name": "mix badass",
+            "owner": {
+                "display_name": "Chad Boyce",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/225rpxn4vfmxoqug5o3s57qia"
+                },
+                "href": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia",
+                "id": "225rpxn4vfmxoqug5o3s57qia",
+                "type": "user",
+                "uri": "spotify:user:225rpxn4vfmxoqug5o3s57qia"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixhZTA1YmQxMDk2ZDg1ZjlmMmI3MzJmOGZkMWI2OTVhNTdmNTcyZDlh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7GvrQgZd8hTVURU3iNOx3Y/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7GvrQgZd8hTVURU3iNOx3Y"
+        }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/users/225rpxn4vfmxoqug5o3s57qia/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 100
+}
